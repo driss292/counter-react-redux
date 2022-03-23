@@ -1,11 +1,7 @@
 import "./App.css";
 
 function App() {
-  return (
-    <div>
-      Hello from <a href="https://www.lereacteur.io">Le Reacteur !</a>
-    </div>
-  );
+  return <div>Hello from Beau Gosse</div>;
 }
 
 export default App;
